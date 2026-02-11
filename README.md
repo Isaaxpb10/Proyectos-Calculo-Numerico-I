@@ -162,8 +162,8 @@ Integral exacta
 Error relativo
 
 👨‍💻 Autor
-Isaac Carreño  
-Estudiante de Ingeniería – Cálculo Numérico
-Universidad (agrega tu institución si quieres)
+Isaac Carreño 31.841.776
+Estudiante de Cálculo Numérico
+Universidad UDO
 
 ⭐ Si este repositorio te fue útil, considera dejar una estrella en GitHub
