@@ -2,7 +2,8 @@
 Este repositorio reúne una serie de algoritmos fundamentales de Cálculo Numérico, implementados en Python y documentados para uso académico.
 Incluye métodos de búsqueda de raíces, interpolación e integración numérica, todos diseñados para comparar resultados aproximados con soluciones exactas mediante el error relativo.
 
-🚀 Métodos Implementados
+Métodos Implementados:
+
 🔹 1. Método de Bisección
 Encuentra raíces encerradas en un intervalo 
 [
@@ -77,13 +78,15 @@ Suma
 Comparación con la integral exacta usando SymPy.
 
 🛠️ Características Principales
-✔ Entrada dinámica de funciones
+
+Entrada dinámica de funciones
 Los programas permiten ingresar funciones directamente desde consola, por ejemplo:
 
 Código
 3*x*sqrt(x**2 + 19)
 x**2 * exp(x**3 + 1)
 sin(x) + x**2
+
 ✔ Cálculo de la solución exacta
 Se utiliza SymPy para:
 
@@ -115,6 +118,7 @@ aprox
 𝐼
 real
 ∣
+
 ✔ Código limpio y documentado
 Cada archivo incluye:
 
@@ -128,12 +132,19 @@ Buenas prácticas de programación
 
 📂 Estructura del Repositorio
 Código
+
 📁 Métodos-Numericos
+
 │── 📄 biseccion.py
+
 │── 📄 newton_raphson.py
+
 │── 📄 lagrange.py
+
 │── 📄 riemann.py
+
 │── 📄 README.md
+
 ▶️ Requisitos
 Instalar SymPy:
 
@@ -143,6 +154,7 @@ Opcionalmente, NumPy:
 
 Código
 pip install numpy
+
 📌 Ejemplo de uso (Método de Riemann)
 Código
 Ingresa la función f(x): 3*x*sqrt(x**2 + 19)
@@ -163,7 +175,7 @@ Error relativo
 
 👨‍💻 Autor
 Isaac Carreño 31.841.776
-Estudiante de Cálculo Numérico
+Cálculo Numérico
 Universidad UDO
 
 ⭐ Si este repositorio te fue útil, considera dejar una estrella en GitHub
